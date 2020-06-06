@@ -11,7 +11,7 @@ User activity is measured with three variablem APS, APM and avarageAps.
 - APM variable stands for Actions Per Minute. It's sum of the number of keys presses on the keyboard, per minute. As expected variable is updated every minute.
 - AvarageAPS is just avarage number of actions per second. It is updated every minute. Avarage is counted simply by deviding current APM value by 60.
 
-##How to use
+# How to use
 To see the example simply clone this repository and simply run the project - no additional configuration is needed.
 
 If you want to reuse this code in a QML app, simply create proper C++ class with code from KeyboardMonitor.cpp and KeyboardMonitor.h and then, add context to QML engine with this line:
