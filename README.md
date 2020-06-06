@@ -1,4 +1,4 @@
-# qtkeyboardmonitor
+# QtKeyboardMonitor
 App written with Qt to track keyboard usage on Windows.
 
 It uses windows libraries to detrmine state of keyboard (and also mouse) buttons.
