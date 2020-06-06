@@ -20,7 +20,7 @@ If you want to reuse this code in a QML app, simply create proper C++ class with
 
 Now you can use keyboard monitor from the QML level. For examples how to use it, see main.qml file.
 
-##Licence
+# Licence
 This project is licensed under the MIT License - see the LICENSE.txt file for details.
  
  DISCLAIMER: Scythe-Studio does not bear responsibility for inappropriate or malicious use of code in this project
