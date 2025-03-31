@@ -8,7 +8,7 @@ By using those libraries the keyboard state can also be tracked in the backgroun
 
 ---
 
-[![Scythe Studio](./pictures/Main-SS-cropped.jpg)](https://scythe-studio.com)
+[![Scythe Studio](./pictures/ss-logo.jpg)](https://scythe-studio.com)
 
 [![Built with Qt](./pictures/built-with-qt.png)](https://qt.io)
 
