@@ -1,8 +1,19 @@
+![Qt Keyboard Monitor](./pictures/Qt-Keyboard-Monitor.jpg)
+
 # QtKeyboardMonitor
 App written with Qt to track keyboard usage on Windows.
 
 It uses windows libraries to detrmine state of keyboard (and also mouse) buttons.
 By using those libraries the keyboard state can also be tracked in the background.
+
+---
+
+[![Scythe Studio](./pictures/Main-SS-cropped.jpg)](https://scythe-studio.com)
+
+[![Built with Qt](./pictures/built-with-qt.png)](https://qt.io)
+
+---
+
 User don't have to be focused on window for the tracking to take place - it can eaven be minimalized.
 The keys state are checked every time the timer is triggered. Timer is triggered every 100ms.
 User activity is measured with three variablem APS, APM and avarageAps.
